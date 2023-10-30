@@ -1,3 +1,19 @@
+//criar uma branch de teste --> git branch teste
+//entrar na branch de teste --> git checkout teste
+//npm init -y --> no gitbash
+//npm i express nodemon body-parser mongoose --> no vscode
+//criar uma pasta chamada .gitignore e escrever node_modules para ignorá-lo
+//na pasta package json escrever após "test": "start": "nodemon ./revac2mia.js localhost:3000"
+//no final do programa, passar tudo da branch de teste para a branch main --> git checkout main ;;;; git merge teste ;;;; git push origin main
+ 
+//CÓDIGO ESPECÍFICO PARA A PROVA DE BANCO DE DADOS:
+ 
+//inicializar o mongodb --> net start mongo db
+//no mongodb atlas e usar o comando que lista os bancos de dados --> show dbs
+ 
+//CRIAR CÓDIGO COM AS SEGUINTES ESPECIFICAÇÕES: criar conexão com banco de dados; crial model solicitada; validar no mongodb; criar a rota; criar a rota/cadastro; testar o cadastro no postman conforme sua model
+
+
 //instalando programas 
 
 const mongoose = require("mongoose");
