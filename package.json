@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./[revac2mia].js localhost:3000"
+    "start": "nodemon ./revAC2mia.js localhost:3000"
   },
   "keywords": [],
   "author": "",
