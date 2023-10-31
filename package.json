@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "start": "nodemon ./revAC2mia.js localhost:3000"
+=======
+    "start": "nodemon ./revac2mia.js localhost: 3000"
+>>>>>>> teste
   },
   "keywords": [],
   "author": "",
@@ -13,7 +17,11 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
+<<<<<<< HEAD
     "mongoose": "^7.6.3",
+=======
+    "mongoose": "^7.6.4",
+>>>>>>> teste
     "nodemon": "^3.0.1"
   }
 }
